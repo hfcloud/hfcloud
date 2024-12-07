@@ -42,5 +42,5 @@ draw_prizes(nicknames, 2, "一等奖")
 draw_prizes(nicknames, 3, "二等奖")
 draw_prizes(nicknames, 4, "三等奖")
 draw_prizes(nicknames, 5, "幸运奖")
-
+print("按下任意键继续......")
 # 派大星V：hfcloud6
